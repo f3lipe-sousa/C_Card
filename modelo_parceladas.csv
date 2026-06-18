@@ -1,0 +1,5 @@
+cartao,data,descricao,valor,tipo,parcelas
+Nubank,18/01/2026,compra 1,500,COMPRA,5
+Nubank,18/01/2026,Deposito PIX,500,DEPOSITO,1
+Inter,18/01/2026,DUO INTER,9000,COMPRA,9
+Inter,18/01/2026,Deposito PIX,9000,DEPOSITO,1
